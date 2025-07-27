@@ -5,8 +5,3 @@ bindkey -s ^t "tmux-sessionizer\n"
 bindkey -s ^w "wallpaper -c\n"
 
 bindkey '^y' autosuggest-accept
-
-# asdf
-
-. "$HOME/.asdf/asdf.sh"
-. "$HOME/.asdf/completions/asdf.bash"
